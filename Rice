@@ -1,0 +1,23 @@
+[
+
+	{
+		"url": "http://www.manjulaskitchen.com/blog/wp-content/uploads/mango_rice.jpg",
+		"name": "Lemon Rice",
+		"ingredients": "['1','a']"
+	},
+	{
+		"url": "http://2.bp.blogspot.com/-SI-jRCQMePI/VSop8S77PxI/AAAAAAABDlI/ONCdq_tPp7k/s1600/c%2Btwo%2B(Custom).jpg",
+		"name": "Coconut Milk Rice",
+		"ingredients": "['2','b']"
+	},
+	{
+		"url": "http://lh5.ggpht.com/-3pY2r3AYrvM/UnJNe1w3AKI/AAAAAAAANT4/hhhTzArh_pI/IMG_0588_thumb%25255B2%25255D.jpg?imgmax=800",
+		"name": "Patto Rice",
+		"ingredients": "['3','c']"
+	},
+	{
+		"url": "https://cdn1.tmbi.com/TOH/Images/Photos/37/1200x1200/exps186045_TH153340B09_25_5b.jpg",
+		"name": "Special Rice",
+		"ingredients": "['4','d']"
+	}
+]
